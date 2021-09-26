@@ -1,6 +1,6 @@
-*name : JS  
-*page : cleancode.kr    
-*email : bada@ganada.kr
+*Name: JS  
+*Page: cleancode.kr    
+*Email: bada@ganada.kr
 
 <!---
 JS3322/JS3322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
