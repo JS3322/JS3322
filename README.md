@@ -1,6 +1,6 @@
-*Name: js3322
-*Page: cleancode.kr    
-*Email: js@cleancode.kr
+- Name: js3322       
+- Page: cleancode.kr    
+- Email: js@cleancode.kr
 
 <!---
 JS3322/JS3322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
