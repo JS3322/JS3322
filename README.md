@@ -1,4 +1,4 @@
-*Name: JS  
+*Name: js3322
 *Page: cleancode.kr    
 *Email: js@cleancode.kr
 
