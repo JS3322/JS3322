@@ -1,4 +1,4 @@
-- Name: js3322       
+- Name: JS3322       
 - Page: cleancode.kr    
 - Email: js@cleancode.kr
 
