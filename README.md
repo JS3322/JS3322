@@ -1,5 +1,5 @@
 - Name: JS3322       
-- Page: cleancode.kr  
+- Page: log.cleancode.kr  
 <!---  
 - Email: js@cleancode.kr
 --->
