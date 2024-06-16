@@ -1,5 +1,5 @@
 
-<h1> JS - Data Developer <img src="https://log.cleancode.kr/images/cleancodePrintImg-dark.png" width="25"></h1>
+<h1> Data Engineer <img src="https://log.cleancode.kr/images/cleancodePrintImg-dark.png" width="25"></h1>
 
 - Dedicated to my work as a Data Engineer and Planner.
 
