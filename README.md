@@ -28,4 +28,4 @@
 
 ---
 
-For more detailed resume information, please visit [here](https://log.cleancode.kr/works).
+For more detailed information, please visit [here](https://log.cleancode.kr/works).
