@@ -4,6 +4,7 @@
 - Dedicated to my work as a Data Engineer and Planner.
 
 ## 💼 Recent Work Experience
+- **Artificial intelligence simulation solution development planning and design for semiconductor processing, artificial intelligence model management design, and MLOps system planning and construction**
 - **Development of Public/Private Cloud Resource/Cost Data Statistics System for Samsung Electronics**
 - **Development of Object Position Unification Algorithm Based on Traffic Camera Information**
 - **Project Manager for Godeok Samsung Electronics Smart Intersection/Digital Twin Development**
